@@ -1,7 +1,13 @@
 # Expense Tracker App
 
-![Expense_Tracker_App](https://user-images.githubusercontent.com/67727132/118935801-58591280-b965-11eb-9d65-f4e5742f8fb2.png)
+An Expense Tracker app built with React and Chart.js. This app allows users to track their income and expenses, visualize their financial data using charts, and manage their budget efficiently.
 
+Features 
+Add and manage income and expenses.
+Display a detailed summary of financial transactions.
+Visualize income vs. expenses using Chart.js.
+Filter transactions by date and category.
+Responsive design for mobile and desktop.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
